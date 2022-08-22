@@ -1,4 +1,4 @@
-'## Oii! meu nome é Maria Ediuarda, atualmente cursando Analise e Desenvolvimento de Sistemas na Universidade una👋
+## Oii! meu nome é Maria Ediuarda, atualmente cursando Analise e Desenvolvimento de Sistemas na Universidade una👋
 
 
 ![DudaB4rbosa GitHub stats](https://github-readme-stats.vercel.app/api?username=DudaB4rbosa&show_icons=true&theme=radical)
