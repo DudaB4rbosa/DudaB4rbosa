@@ -1,4 +1,10 @@
-### Hi there 👋
+'## Oii! meu nome é Maria Ediuarda, atualmente cursando Analise e Desenvolvimento de Sistemas na Universidade una👋
+
+
+![DudaB4rbosa GitHub stats](https://github-readme-stats.vercel.app/api?username=DudaB4rbosa&show_icons=true&theme=radical)
+
+
+
 
 <!--
 **DudaB4rbosa/DudaB4rbosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
